@@ -8,7 +8,6 @@
     display: grid;
     background-color: aqua;
     padding: 10px;
-    /* gap: 1px 1px; */
     height: 520px;
     width: 1130px;
     
@@ -17,7 +16,6 @@
 .item {
     display: flex;
     background-color: springgreen;
-    /* border: 1px solid black; */
 }
 
 .control {
@@ -35,7 +33,6 @@ h1 {
 }
 
 #colors {
-    /* display: flex; */
     margin-left: 50px;
     height: 60px;
     width: 80px;
